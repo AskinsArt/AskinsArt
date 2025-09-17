@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Dominic (AskinsArt)
 
-<!--
-**AskinsArt/AskinsArt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Aspiring IT Professional | Python Developer | Cybersecurity Enthusiast  
 
-Here are some ideas to get you started:
+## 🚀 Featured Projects
+- 🔒 [SecurePass - Password Generator & Checker](https://github.com/AskinsArt/Password-Generator)  
+- 🎮 [Adventure Game (Python)](https://github.com/AskinsArt/Adventure-Game)  
+- 📊 [Game Sales Dashboard (HTML, CSS, JS, Plotly)](https://github.com/AskinsArt/game-sales-dashboard)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with me
+- [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)  
+- [Replit Projects](https://replit.com/@dominicphawes)  
+
+---
+✨ Always learning, building, and sharing.
