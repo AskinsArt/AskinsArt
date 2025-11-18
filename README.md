@@ -9,7 +9,7 @@
 - 🎮 [2D Egg Drop Game (Unity)](https://askinsart.github.io/EggDrop-Web/)
 
 ## 📫 Connect with me
-- [LinkedIn](https://www.linkedin.com/in/dominic-hawes/))  
+- [LinkedIn](https://www.linkedin.com/in/dominic-hawes/)  
 - [Replit Projects](https://replit.com/@dominicphawes)  
 
 ---
