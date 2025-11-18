@@ -5,7 +5,8 @@
 ## 🚀 Featured Projects
 - 🔒 [SecurePass - Password Generator & Checker](https://github.com/AskinsArt/Password-Generator)  
 - 🎮 [Adventure Game (Python)](https://github.com/AskinsArt/Adventure-Game)  
-- 📊 [Game Sales Dashboard (HTML, CSS, JS, Plotly)](https://github.com/AskinsArt/game-sales-dashboard)  
+- 📊 [Game Sales Dashboard (HTML, CSS, JS, Plotly)](https://github.com/AskinsArt/game-sales-dashboard)
+- 🎮 [2D Egg Drop Game (Unity)](https://askinsart.github.io/EggDrop-Web/)
 
 ## 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)  
